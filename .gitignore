@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# termos gerados com dados reais não devem ir para o repositório
+Termo_Gerado/*
+!Termo_Gerado/teste7.docx
+!Termo_Gerado/teste8.docx
