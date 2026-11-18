@@ -1,3 +1,6 @@
+# Fluxo do programa
+
+```
 1 - Documento:
 1.1 - Escolhe modelo de documento.
 
@@ -7,3 +10,4 @@
 
 3 - Devolve o documento pronto:
 3.1 - Gera o Docx
+```

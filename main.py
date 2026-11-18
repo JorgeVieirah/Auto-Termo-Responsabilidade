@@ -78,7 +78,7 @@ while True:
             nome_template = "termo_teste_note.docx"
             dados_especificos = term_computer()
         elif escolha == "3":
-            nome_template = "termo_teste_perifericos.docx"
+            nome_template = "termo_teste_periferico.docx"
             dados_especificos = term_perifericos()
         
         dados_finais = dados_comuns.copy()
